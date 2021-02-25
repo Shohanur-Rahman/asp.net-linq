@@ -1,0 +1,13 @@
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.exe
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.deps.json
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.runtimeconfig.json
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.runtimeconfig.dev.json
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.dll
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\bin\Debug\netcoreapp3.1\LinqQueryConsole.pdb
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.csprojAssemblyReference.cache
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.AssemblyInfoInputs.cache
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.AssemblyInfo.cs
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.csproj.CoreCompileInputs.cache
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.dll
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.pdb
+G:\tuitorials\asp.net\Linq\ebGentle\LinqQueryApp\LinqQueryConsole\obj\Debug\netcoreapp3.1\LinqQueryConsole.genruntimeconfig.cache
